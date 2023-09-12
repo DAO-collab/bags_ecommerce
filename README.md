@@ -155,4 +155,4 @@ Below is the color palette used in this application:
 [![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - MIT License
-- Copyright 2020 © [Maryam Aljanabi](https://github.com/ngud-0119)
+- Copyright 2020 © [ngud-0119](https://github.com/ngud-0119)
