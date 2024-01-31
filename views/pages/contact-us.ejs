@@ -1,10 +1,15 @@
-<%- include ../partials/header %> <%- include ../partials/categories-navbar %>
+<%- include ../partials/header %> <!-- Include the header partial -->
+
+<%- include ../partials/categories-navbar %> <!-- Include the categories navbar partial -->
 
 <div class="container">
   <div class="row">
+  <!-- Main Content Section -->
     <div class="col-lg-8 col-md-12 m-auto">
       <h1 class="mt-4 mb-4 text-center">Contact Us</h1>
-      <!-- Flash message -->
+      <!-- Heading for the Contact Us page -->
+
+      <!-- Flash Message for Success -->
       <% if (successMsg != null && successMsg) { %>
         <div id="success" class="alert alert-success">
           <%= successMsg %>
